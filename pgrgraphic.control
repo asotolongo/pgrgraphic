@@ -1,0 +1,5 @@
+#extesion
+comment = 'Extension para graficar en postgresql utilizando plr'
+default_version = '1.0.0'
+relocatable = true
+superuser = true
